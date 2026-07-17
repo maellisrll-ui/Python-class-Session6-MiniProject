@@ -1,6 +1,7 @@
 # Python-class-Session6-MiniProject
 # Mini-Project: From Public API to a Deployed Classification Dashboard
 -----
+•	Live deployed dashboard URL : https://python-class-session6-miniproject-srapk77edbmohjhxhlmnu2.streamlit.app/ 
 
 ## Overview
 In this project, you will build a small but complete data science pipeline, end to end:
